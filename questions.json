@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": ") Add the given numbers and find the total by filling the empty boxes.",
+    "options":["1","0","0","2","",""],
+    "answers": ["1","0","0","2","1","2"]
+  },
+  {
+    "questionNo": 2,
+    "question": " Find the sum of given numbers and fill in the answer in the blank boxes.",
+    "options":["1","1","1","5","",""],
+    "answers": ["1","1","1","5","2","6"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Add the numbers and write down the correct answer in empty boxes.",
+    "options":["2","0","1","4","",""],
+    "answers": ["2","0","1","4","3","4"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Add the numbers and fill in the answer in the empty boxes.",
+    "options":["1","9","1","0","",""],
+    "answers": ["1","9","1","0","2","9"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Find the sum of given numbers and fill in the answer in the blank boxes.",
+    "options":["3","1","0","2","",""],
+    "answers": ["3","1","0","2","3","3"]
+  }
+]
